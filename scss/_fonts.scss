@@ -1,0 +1,43 @@
+@font-face {
+    font-family: 'cubanoregular';
+    src: url('../fonts/cubano-webfont.woff2') format('woff2'),
+         url('../fonts/cubano-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Brandon Grotesque';
+    src: url('../fonts/BrandonGrotesque-Medium.eot');
+    src: local('../fonts/Brandon Grotesque Medium'), local('../fonts/BrandonGrotesque-Medium'),
+        url('../fonts/BrandonGrotesque-Medium.woff2') format('woff2'),
+        url('../fonts/BrandonGrotesque-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Brandon Grotesque';
+    src: url('../fonts/BrandonGrotesque-Regular.eot');
+    src: local('../fonts/Brandon Grotesque Regular'), local('../fonts/BrandonGrotesque-Regular'),
+        url('../fonts/BrandonGrotesque-Regular.woff2') format('woff2'),
+        url('../fonts/BrandonGrotesque-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Brandon Grotesque';
+    src: url('../fonts/BrandonGrotesque-Bold.eot');
+    src: local('../fonts/Brandon Grotesque Bold'), local('../fonts/BrandonGrotesque-Bold'),
+        url('../fonts/BrandonGrotesque-Bold.woff2') format('woff2'),
+        url('../fonts/BrandonGrotesque-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Brandon Grotesque';
+    src: url('../fonts/BrandonGrotesque-Light.eot');
+    src: local('../fonts/Brandon Grotesque Light'), local('../fonts/BrandonGrotesque-Light'),
+        url('../fonts/BrandonGrotesque-Light.woff2') format('woff2'),
+        url('../fonts/BrandonGrotesque-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
